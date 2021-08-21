@@ -10,6 +10,9 @@
 - 🌱 Status: 'Currently learning and looking for a new job opportunity'
 - 📫 Reach me on md.amine.smahi@gmail.com
 
+
+[![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=medaminedev66&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **medaminedev66/medaminedev66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
