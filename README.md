@@ -11,6 +11,8 @@
 - 📫 Reach me on md.amine.smahi@gmail.com
 
 
+
+## Stats
 [![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=medaminedev66&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
