@@ -1,7 +1,9 @@
 ### Hi I'm Amine Smahi! 👋�
 
 
-## About Me 👋:
+
+
+## About Me:
 
 - 🔭 I’m currently training to become a full-stack software developer <a href="https://www.microverse.org/">Microverse Inc</a>
 - 💻 Code: JavaScript, HTML/CSS, Bootstrap, Ruby, Rails, React & Redux
