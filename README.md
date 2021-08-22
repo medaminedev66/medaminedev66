@@ -22,7 +22,7 @@
 > Tools, languages, and other things that I like to work with.
 
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center" width="96">
       <a href="#aminesmahi-tech">
@@ -75,12 +75,6 @@
       </a>
       <br>Git
     </td>
-    <td align="center" width="96">
-      <a href="#aminesmahi-tech" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
   </tr>
    <tr>
     <td align="center" width="96">
@@ -95,6 +89,12 @@
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
+    </td>
+      <td align="center" width="96">
+      <a href="#aminesmahi-tech" >
+        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
     </td>
   </tr>
     
