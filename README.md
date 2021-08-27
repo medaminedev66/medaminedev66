@@ -38,15 +38,15 @@
     </td>
     <td align="center" width="96">
       <a href="#aminesmahi-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#aminesmahi-tech">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
       </a>
       <br>Node JS
+    </td>
+    <td align="center" width="96">
+      <a href="#aminesmahi-tech" >
+        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
     </td>
   </tr>
   
@@ -63,20 +63,6 @@
       </a>
       <br>Linux
     </td>
-    <td align="center"  width="96">
-      <a href="#aminesmahi-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
-      </a>
-      <br>WordPress
-    </td>
-    <td align="center" width="96">
-      <a href="#aminesmahi-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-  </tr>
-   <tr>
     <td align="center" width="96">
       <a href="#aminesmahi-tech">
         <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
@@ -84,20 +70,60 @@
       <br>Bash
     </td>
     <td align="center" width="96">
+      <a href="#aminesmahi-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    </tr>
+   <tr>
+    <td align="center" width="96">
+      <a href="#aminesmahi-tech">
+        <img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" width="48" height="48" alt="html5" />
+      </a>
+      <br>HTML5
+    </td>
+     <td align="center" width="96">
+      <a href="#aminesmahi-tech">
+        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" width="48" height="48" alt="SASS" />
+      </a>
+      <br>SASS
+    </td>
+     <td align="center" width="96"> 
+      <a href="#aminesmahi-tech" >
+        <img src="https://icon-library.com/images/css3-icon/css3-icon-28.jpg" width="48" height="48" alt="css3" />
+      </a>
+      <br>CSS3
+    </td>
+      <td align="center" width="96">
+      <a href="#aminesmahi-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+  </tr>
+  </tr>
+   <tr>
      <td align="center" width="96"> 
       <a href="#aminesmahi-tech" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
     </td>
-      <td align="center" width="96">
-      <a href="#aminesmahi-tech" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+  <td align="center"  width="96">
+      <a href="#aminesmahi-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
       </a>
-      <br>PHP
+      <br>WordPress
+    </td>
+  <td align="center"  width="96">
+      <a href="#aminesmahi-tech">
+        <img src="http://sdorway11.github.io/img/portfolio/C_.png" width="48" height="48" alt="WordPress" />
+      </a>
+      <br>C#
     </td>
   </tr>
-    
+  
 </table>
 <!-- links -->
 
