@@ -1,4 +1,4 @@
-### Hi I'm Amine Smahi! 👋�
+### Hi I'm Amine! 👋
 
 
 
