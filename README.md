@@ -17,7 +17,13 @@
 ## Stats
 [![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=medaminedev66&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 align="left" id="aminesmahi-tech">Favorite Tech</h2>
+## Contact me 📫
+
+- Twitter: [@medaminesmahi](https://twitter.com/medaminesmahi)
+- LinkedIn: [Amine Smahi](https://www.linkedin.com/in/mohammed-amine-smahi-1b8615187/)
+- Email: md.amine.smahi@gmail.com
+
+## Favorite Tech
 
 > Tools, languages, and other things that I like to work with.
 
