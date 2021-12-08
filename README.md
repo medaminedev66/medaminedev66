@@ -128,8 +128,21 @@
       </a>
       <br>C#
     </td>
+  <td align="center"  width="96">
+      <a href="#aminesmahi-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/800px-Ruby_logo.svg.png" width="48" height="48" alt="Ruby" />
+      </a>
+      <br>Ruby
+    </td>
   </tr>
-  
+  <tr>
+  <td align="center"  width="96">
+      <a href="#aminesmahi-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1920px-Ruby_On_Rails_Logo.svg.png" width="55" height="48" alt="Ruby on rails" />
+      </a>
+      <br>ROR
+    </td>
+  </tr>
 </table>
 <!-- links -->
 
