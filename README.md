@@ -5,11 +5,11 @@
 
 ## About Me:
 
-- 🔭 I’m currently training to become a full-stack software developer <a href="https://www.microverse.org/">Microverse Inc</a>
-- 💻 Code: JavaScript, HTML/CSS, Bootstrap, Ruby, Rails, React & Redux
-- 👯 Degrees: Bachelor's Computer science
+- 🚡 I’m a Technical Support Engineer at <a href="https://www.microverse.org/">Microverse Inc</a>
+- 💻 Stack: JavaScript, HTML/CSS, Bootstrap, Ruby, Rails, React & Redux
+- 👯 Degrees: Bachelor's Computer science, Full-stack web development certification.
 - 😄 Language: English, Arabic
-- 🌱 Status: 'Currently learning and looking for a new job opportunity'
+- 🌱 Status: 'looking for a new job opportunity'
 - 📫 Reach me on md.amine.smahi@gmail.com
 
 
