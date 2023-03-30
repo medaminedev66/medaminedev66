@@ -7,15 +7,10 @@
 
 - 🚡 I’m a Senior Code Reviewer at <a href="https://www.microverse.org/">Microverse Inc</a>
 - 💻 Stack: JavaScript, HTML/CSS, Ruby, Rails, React & Redux
-- 👯 Degrees: Bachelor's Computer science, Full-stack web development certification.
+- 👯 Degrees: Bachelor's Computer Science, Full-stack web development certification.
 - 😄 Language: English, Arabic
 - 🌱 Status: 'looking for a new job opportunity'
 - 📫 Reach me on md.amine.smahi@gmail.com
-
-
-
-## Stats
-[![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=medaminedev66&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me 📫
 
