@@ -5,8 +5,8 @@
 
 ## About Me:
 
-- 🚡 I’m a Technical Support Engineer at <a href="https://www.microverse.org/">Microverse Inc</a>
-- 💻 Stack: JavaScript, HTML/CSS, Bootstrap, Ruby, Rails, React & Redux
+- 🚡 I’m a Senior Code Reviewer at <a href="https://www.microverse.org/">Microverse Inc</a>
+- 💻 Stack: JavaScript, HTML/CSS, Ruby, Rails, React & Redux
 - 👯 Degrees: Bachelor's Computer science, Full-stack web development certification.
 - 😄 Language: English, Arabic
 - 🌱 Status: 'looking for a new job opportunity'
@@ -85,7 +85,7 @@
    <tr>
     <td align="center" width="96">
       <a href="#aminesmahi-tech">
-        <img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" width="48" height="48" alt="html5" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/195px-HTML5_logo_and_wordmark.svg.png" width="48" height="48" alt="html5" />
       </a>
       <br>HTML5
     </td>
@@ -138,7 +138,7 @@
   <tr>
   <td align="center"  width="96">
       <a href="#aminesmahi-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1920px-Ruby_On_Rails_Logo.svg.png" width="55" height="48" alt="Ruby on rails" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1920px-Ruby_On_Rails_Logo.svg.png" width="55" height="30" alt="Ruby on rails" />
       </a>
       <br>ROR
     </td>
