@@ -11,6 +11,16 @@
 - 😄 Language: English, Arabic
 - 🌱 Status: 'looking for a new job opportunity'
 - 📫 Reach me on md.amine.smahi@gmail.com
+<!--
+```js
+const aSmahi = {
+  lookingFor: "Front-end developer" || "Back-end developer" || "Full-stack web developer",
+  code: [JavaScript, React, Redux, Ruby, Ruby on Rails, HTML/CSS, Bootstrap],
+  askMeAbout: [Gym, Coffee, Fitness],
+  challenge: "I'm currently doing the best I can in building a SAAS project",
+  funFacts: ['']
+}
+```-->
 
 ## Contact me 📫
 
@@ -45,22 +55,22 @@
     </td>
     <td align="center" width="96">
       <a href="#aminesmahi-tech" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-1024.png" width="48" height="48" alt="PHP" />
       </a>
-      <br>PHP
+      <br>Java
     </td>
   </tr>
   
   <tr>
-    <td align="center" width="96"> 
-      <a href="#aminesmahi-tech" >
-        <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
+    <td align="center"  width="96">
+      <a href="#aminesmahi-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1920px-Ruby_On_Rails_Logo.svg.png" width="55" height="30" alt="Ruby on rails" />
       </a>
-      <br>C Lang
+      <br>ROR
     </td>
     <td align="center" width="96">
       <a href="#aminesmahi-tech" >
-        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/225px-Tux.svg.png" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
     </td>
@@ -131,11 +141,11 @@
     </td>
   </tr>
   <tr>
-  <td align="center"  width="96">
-      <a href="#aminesmahi-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1920px-Ruby_On_Rails_Logo.svg.png" width="55" height="30" alt="Ruby on rails" />
+    <td align="center" width="96"> 
+      <a href="#aminesmahi-tech" >
+        <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
       </a>
-      <br>ROR
+      <br>C Lang
     </td>
   </tr>
 </table>
