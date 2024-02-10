@@ -10,7 +10,7 @@
 - 👯 Degrees: Bachelor's Computer Science, Full-stack web development certification.
 - 😄 Language: English, Arabic
 - 🌱 Status: 'looking for a new job opportunity'
-- 📫 Reach me on md.amine.smahi@gmail.com
+- 📫 Reach me on asmahi.swe@gmail.com
 <!--
 ```js
 const aSmahi = {
@@ -26,7 +26,7 @@ const aSmahi = {
 
 - Twitter: [@medaminesmahi](https://twitter.com/medaminesmahi)
 - LinkedIn: [Amine Smahi](https://www.linkedin.com/in/md-amine-smahi/)
-- Email: md.amine.smahi@gmail.com
+- Email: asmahi.swe@gmail.com
 
 ## Favorite Tech
 
