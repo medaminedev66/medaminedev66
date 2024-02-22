@@ -5,9 +5,9 @@
 
 ## About Me:
 
-- 🚡 I’m a Senior Code Reviewer at <a href="https://www.microverse.org/">Microverse Inc</a>
+- 🚡 I’m a Full Stack Engineer and Senior Code Reviewer at <a href="https://www.microverse.org/">Microverse Inc</a>
 - 💻 Stack: JavaScript, HTML/CSS, Ruby, Rails, React & Redux
-- 👯 Degrees: Bachelor's Computer Science, Full-stack web development certification.
+- 👯 Degrees: Bachelor's degree in Computer Science, Full-stack web development certification.
 - 😄 Language: English, Arabic
 - 🌱 Status: 'looking for a new job opportunity'
 - 📫 Reach me on asmahi.swe@gmail.com
@@ -24,7 +24,7 @@ const aSmahi = {
 
 ## Contact me 📫
 
-- Twitter: [@medaminesmahi](https://twitter.com/medaminesmahi)
+- X: [@medaminesmahi](https://twitter.com/medaminesmahi)
 - LinkedIn: [Amine Smahi](https://www.linkedin.com/in/md-amine-smahi/)
 - Email: asmahi.swe@gmail.com
 
