@@ -5,7 +5,7 @@
 
 ## About Me:
 
-- 🚡 I’m a Full Stack Engineer and Senior Code Reviewer at <a href="https://www.microverse.org/">Microverse Inc</a>
+<!--- 🚡 I’m a Full Stack Engineer and Senior Code Reviewer at <a href="https://www.microverse.org/">Microverse Inc</a>-->
 - 💻 Stack: JavaScript, HTML/CSS, Ruby, Rails, React & Redux
 - 👯 Degrees: Bachelor's degree in Computer Science, Full-stack web development certification.
 - 😄 Language: English, Arabic
